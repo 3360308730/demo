@@ -1,0 +1,3 @@
+﻿  demo.cpp
+C:\Users\Meng_fan\Desktop\demo\demo\demo.cpp(3,6): warning C4326: “main”的返回类型应为“int”而非“void”
+  demo.vcxproj -> C:\Users\Meng_fan\Desktop\demo\demo\x64\Debug\demo.exe
